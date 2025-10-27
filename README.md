@@ -1,3 +1,3 @@
 # SOSAN
-shared ordained system about (local) network
+shared ordained system about (local) network  
 Extern libs: FMT
